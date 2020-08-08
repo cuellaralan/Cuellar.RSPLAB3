@@ -1,0 +1,26 @@
+{
+  "name": "Cuellar.SPLabIII.3D",
+  "version": "1.0.0",
+  "description": "primer parcial lab 3",
+  "main": "index.js",
+  "dependencies": {
+    "@types/jquery": "^3.5.1",
+    "chart.js": "^2.9.3",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuellaralan/Cuellar.SPLabIII.3D.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuellaralan/Cuellar.SPLabIII.3D/issues"
+  },
+  "homepage": "https://github.com/cuellaralan/Cuellar.SPLabIII.3D#readme"
+}
